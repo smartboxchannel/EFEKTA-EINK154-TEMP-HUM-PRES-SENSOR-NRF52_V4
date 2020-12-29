@@ -1,5 +1,5 @@
 # EFEKTA-EINK154-TEMP-HUM-PRES-SENSOR-NRF52_V4
-Project of a temperature, humidity and pressure sensor with an electronic ink display. The screen size is 1.54 inches. The device uses a si7021, sht21,htu21d or bme280 sensor. used chip nRF5210, nRF52811, nRF52832, nRF52840. Multi-language, color inversion, powered by one or two batteries. A new version of the display is being used(GDEH0154D67), the highest resolution(number of pixels per 1 inch) among displays of other sizes, the best contrast(black is black).
+Project of a temperature, humidity and pressure sensor with an electronic ink display. The screen size is 1.54 inches. The device uses a si7021, sht21,htu21d or bme280 sensor. used chip nRF52832, nRF52833, nRF52840. Multi-language, color inversion, powered by one or two batteries. A new version of the display is being used(GDEH0154D67), the highest resolution(number of pixels per 1 inch) among displays of other sizes, the best contrast(black is black).
 
 
 ### Support my projects so that I can make open source projects even better and faster.
