@@ -21,6 +21,8 @@ Video: https://youtu.be/T66y83lF-xg
 More info at http://efektalab.com/eink154V4
 
 
-![EFEKTA-EINK154-TEMP-HUM-PRES-SENSOR-NRF52_V4
-](https://github.com/smartboxchannel/EFEKTA-EINK154-TEMP-HUM-PRES-SENSOR-NRF52_V4
-/blob/master/Images/001.jpg)
+
+---
+
+![EFEKTA EINK102 TEMP HUM MICRO SENSOR NRF52](https://github.com/smartboxchannel/EFEKTA-EINK154-TEMP-HUM-PRES-SENSOR-NRF52_V4/blob/master/Images/001.jpg)
+
